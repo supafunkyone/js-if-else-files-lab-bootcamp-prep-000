@@ -10,4 +10,8 @@ if (name ==="susan") {
   console.log("The name is correct")
 }
 
-if (name )
+if (name ==="susan") {
+  console.log("the name is correct")
+} else {
+  console.log("expected the name to be Susan")
+}
